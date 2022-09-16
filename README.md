@@ -1,2 +1,2 @@
-# Data-Structure-Algorithms-with-C-
+# Data-Structure-Algorithms-with-C++
 Problem of Data Structure &amp; Algorithms
