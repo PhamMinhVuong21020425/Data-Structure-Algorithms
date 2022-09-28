@@ -76,7 +76,7 @@ int main()
 //        heap.push_back(x);
 //    }
 //    makeHeap(heap);
-    printHeap(heap);
+//    printHeap(heap);
     while(Q--)
     {
         ll type; cin >> type;
